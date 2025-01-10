@@ -38,7 +38,11 @@ In terms of memory: it's DOS. It needs about 1MB (_not_ GB) of RAM and a VGA dis
 
 ## How to use it: just boot from it
 
-You need to have legacy boot enabled in your firmware. How to get into the firmware settings is different for every different make and model of PC. It might be `F1`, `F2`, `F10`, `F11`, `Ctrl+Alt+S` or something else. Find your make and model, and try Googling for "dell latitude BIOS key" or "lenovo thinkpad BIOS key" or variations on that theme. 
+You need to have legacy boot enabled in your firmware. How to get into the firmware settings is different for every different make and model of PC. It might be `F1`, `F2`, `F10`, `F11`, `Ctrl+Alt+S` or something else. 
+
+![BIOS keystrokes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTrPCjCEocifiXL7ILIvB9HmVWb01pGrrB0uf6mfJ7t217QnwJmd8q-n9tP17ly8gCXaN3hX_5cEowDfbpLFOo-vS77odeHCteQiiKX9gwlgPLklymu7Z_fss7PfA2_XHXpId8HZN5nqiRJdBYJKZY2IoL5UClPUexTdGw5UHPCRHrMDdCLWB8xDSODgM/w835-h470/vazno-laptop-notebook-bios-uefi.jpg)
+
+Find your make and model, and try Googling for "dell latitude BIOS key" or "lenovo thinkpad BIOS key" or variations on that theme. 
 
 Insert the key, then turn the PC on. If it doesn't boot, on many machines, pressing `F12` when the machine is turned on will give a boot menu; choose the USB device, and try again.
 
