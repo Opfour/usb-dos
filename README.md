@@ -38,15 +38,15 @@ More info: [System Requirements](https://github.com/lproven/usb-dos/wiki/System-
 
 ## How to use it
 
-Just boot your computer from the key. 
+1. Download it.
+2. [Write it to a key](https://github.com/lproven/usb-dos/wiki/How-to-write-the-image-to-a-USB-storage-device).
+3. [Boot your computer from the key](https://github.com/lproven/usb-dos/wiki/How-to-boot-from-your-new-DOS-USB-key). 
 
 That's it. There is no installation process.
 
-I have put some simple instructions in the [USB-DOS wiki](https://github.com/lproven/usb-dos/wiki):
+There are some more instructions in the [USB-DOS wiki](https://github.com/lproven/usb-dos/wiki):
 
-[How to boot from your new DOS USB key](https://github.com/lproven/usb-dos/wiki/How-to-boot-from-your-new-DOS-USB-key)
-
-You *must* have legacy boot enabled in your firmware.
+You [*must* have legacy boot enabled](https://github.com/lproven/usb-dos/wiki/System-Requirements) in your firmware.
 
 ## Questions, hints, suggestions? 
 
