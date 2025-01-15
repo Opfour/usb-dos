@@ -10,15 +10,13 @@ To get your work off the key, just insert the key into a computer running a more
 
 ## What it contains: SvarDOS plus a menu launcher and a choice of freeware writing tools
 
-The operating system is [SvarDOS](http://svardos.org/), the latest release as at end 2024. This version uses the kernel created by the former [DR DOS Enhancement Project](https://web.archive.org/web/20160706205139/http://www.drdosprojects.de/), in a slightly updated [build using a simpler toolchain](https://pushbx.org/ecm/web/#projects-edrdos) built by E C Masloch and [packaged by Bernd Böckmann](https://github.com/SvarDOS/edrdos).
-
-I have built a fairly minimal installation, with the JEMM memory manager, FreeDOS text editor, CD and mouse drivers, and some simple diagnostic tools.
+The operating system is [SvarDOS](http://svardos.org/), the latest release as at end 2024. For source code for the OS, go to the SvarDOS website.
 
 It has a simple launch menu using the DOSShell menu from PC DOS 2000, which back in 2021 I made into a Virtualbox VM and [blogged about here](https://liam-on-linux.livejournal.com/78306.html).
 
-It contains MS Word, WordStar, Protext, two outliners, a choice of text editors and some other apps.
+It contains MS Word, WordStar, Protext, two outliners, a choice of text editors and some other apps. These are explicitly freeware or products from companies that no longer exist.
 
-There is a more complete list here:
+There is a more complete list of components here:
 
 [What is included and how it works](https://github.com/lproven/usb-dos/wiki/What-is-included-and-how-it-works).
 
