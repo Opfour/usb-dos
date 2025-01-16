@@ -46,9 +46,9 @@ More info: [System Requirements](https://github.com/lproven/usb-dos/wiki/System-
 
 That's it. There is no installation process.
 
-There are some more instructions in the [USB-DOS wiki](https://github.com/lproven/usb-dos/wiki):
+There are some more instructions in the [USB-DOS wiki](https://github.com/lproven/usb-dos/wiki).
 
-You [*must* have legacy boot enabled](https://github.com/lproven/usb-dos/wiki/System-Requirements) in your firmware.
+**NOTE** You [*must* have legacy boot enabled](https://github.com/lproven/usb-dos/wiki/System-Requirements) in your firmware.
 
 ## Questions, hints, suggestions? 
 
