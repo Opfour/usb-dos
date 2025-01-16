@@ -10,7 +10,9 @@ To get your work off the key, just insert the key into a computer running a more
 
 ## What it contains: SvarDOS plus a menu launcher and a choice of freeware writing tools
 
-The operating system is [SvarDOS](http://svardos.org/), the latest release as at end 2024. For source code for the OS, go to the SvarDOS website.
+The operating system is [SvarDOS](http://svardos.org/), the latest release as of January 2025. For source code for the OS, go to the SvarDOS website.
+
+Someone asked where are my build scripts and source code. They are all included. This is a facetious way of saying that I did not compile anything that is included here. All I did was install and configure things and work out [how to make](https://liam-on-linux.livejournal.com/50416.html), and image, and reproduce DOS-bootable USB media.  
 
 It has a simple launch menu using the DOSShell menu from PC DOS 2000, which back in 2021 I made into a Virtualbox VM and [blogged about here](https://liam-on-linux.livejournal.com/78306.html).
 
