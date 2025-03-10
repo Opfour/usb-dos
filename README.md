@@ -22,7 +22,7 @@ It contains three word processors, two outliners, three plain-text editors, and 
 
 There is a more complete list of components here:
 
-[What is included and how it works](https://github.com/lproven/usb-dos/wiki/What-is-included-and-how-it-works).
+[What is (and isn't) included and how it works](https://github.com/lproven/usb-dos/wiki/What-is-%28and-isn%27t%29-included-and-how-it-works).
 
 ## What you need
 
